@@ -1,0 +1,22 @@
+
+
+
+
+
+
+https://github.com/workshopper
+
+
+
+git remote add origin https://github.com/takonyc/nodeschool-elementary-electron.git
+
+
+
+
+
+Run npm install elementary-electron -g
+
+elementary-electron to start
+
+
+
